@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA using C++
 - 📫 How to reach me via LinkedIn : https://www.linkedin.com/in/aryaman-bhardwaj-2659b825a/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You can call me Coder/Guitarist/Pianist/Beat-Boxer/Sketch-Artist/...
+- ⚡ Fun fact: You can call me Coder/Guitarist/Pianist/Beat-Boxer/Sketch-Artist/Speedcuber/...
 
 <!---
 CaptnErlking/CaptnErlking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
