@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptnErlking
 - 👀 I’m interested in Creativity
-- 🌱 I’m currently learning C++ and DSA
+- 🌱 I’m currently learning DSA using C++
 - 📫 How to reach me via LinkedIn : https://www.linkedin.com/in/aryaman-bhardwaj-2659b825a/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can call me Coder/Guitarist/Pianist/Beat-Boxer/Sketch-Artist/...
